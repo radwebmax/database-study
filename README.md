@@ -1,2 +1,2 @@
-# postgresql
-For study
+# For study purposes
+
