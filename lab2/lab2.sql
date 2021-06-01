@@ -108,3 +108,12 @@ insert into order (order_id, user_id, order_item, order_date, total_price) value
 insert into order (order_id, user_id, order_item, order_date, total_price) values (18, 18, 'Shorts', '8/8/2020', '$4.84');
 insert into order (order_id, user_id, order_item, order_date, total_price) values (19, 19, 'Everlasting Piece, An', '8/26/2020', '$1.25');
 insert into order (order_id, user_id, order_item, order_date, total_price) values (20, 20, 'Commitments, The', '3/17/2021', '$6.36');
+
+
+ALTER TABLE "order" ADD FOREIGN KEY ("order_item") REFERENCES "films" ("film_title");
+
+ALTER TABLE "order" ADD FOREIGN KEY ("user_id") REFERENCES "Publishers" ("Publisher_ID");
+
+ALTER TABLE "order" ADD FOREIGN KEY ("total_price") REFERENCES "films" ("price");
+
+ALTER TABLE "directors" ADD FOREIGN KEY ("director_id") REFERENCES "films" ("director_id");
