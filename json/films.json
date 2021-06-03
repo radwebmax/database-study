@@ -1,0 +1,141 @@
+[{
+  "id": 1,
+  "title": "Palindromes",
+  "genre": "Adventure|Comedy|Drama",
+  "director_id": 1,
+  "date_publish": "7/15/2020",
+  "price": 18
+}, {
+  "id": 2,
+  "title": "Pooh's Heffalump Movie",
+  "genre": "Animation|Children",
+  "director_id": 2,
+  "date_publish": "11/25/2020",
+  "price": 70
+}, {
+  "id": 3,
+  "title": "Cold Souls",
+  "genre": "Comedy|Drama",
+  "director_id": 3,
+  "date_publish": "12/7/2020",
+  "price": 54
+}, {
+  "id": 4,
+  "title": "Matewan",
+  "genre": "Drama",
+  "director_id": 4,
+  "date_publish": "8/23/2020",
+  "price": 78
+}, {
+  "id": 5,
+  "title": "Junk Mail (Budbringeren)",
+  "genre": "Comedy|Thriller",
+  "director_id": 5,
+  "date_publish": "7/10/2020",
+  "price": 79
+}, {
+  "id": 6,
+  "title": "Toy Story 3",
+  "genre": "Adventure|Animation|Children|Comedy|Fantasy|IMAX",
+  "director_id": 6,
+  "date_publish": "10/28/2020",
+  "price": 15
+}, {
+  "id": 7,
+  "title": "Toward the Unknown",
+  "genre": "Drama|Romance|War",
+  "director_id": 7,
+  "date_publish": "12/14/2020",
+  "price": 65
+}, {
+  "id": 8,
+  "title": "Soft Toilet Seats",
+  "genre": "Comedy",
+  "director_id": 8,
+  "date_publish": "5/5/2021",
+  "price": 24
+}, {
+  "id": 9,
+  "title": "Stay Alive",
+  "genre": "Horror|Sci-Fi|Thriller",
+  "director_id": 9,
+  "date_publish": "2/24/2021",
+  "price": 44
+}, {
+  "id": 10,
+  "title": "In Secret",
+  "genre": "Crime|Drama|Romance|Thriller",
+  "director_id": 10,
+  "date_publish": "8/7/2020",
+  "price": 56
+}, {
+  "id": 11,
+  "title": "The Widow From Chicago",
+  "genre": "Crime|Drama|Romance",
+  "director_id": 11,
+  "date_publish": "4/24/2021",
+  "price": 16
+}, {
+  "id": 12,
+  "title": "Hollywood Ending",
+  "genre": "Comedy|Drama",
+  "director_id": 12,
+  "date_publish": "2/13/2021",
+  "price": 12
+}, {
+  "id": 13,
+  "title": "American President, The",
+  "genre": "Comedy|Drama|Romance",
+  "director_id": 13,
+  "date_publish": "7/28/2020",
+  "price": 1
+}, {
+  "id": 14,
+  "title": "Harvest: 3,000 Years (Mirt Sost Shi Amit)",
+  "genre": "Drama",
+  "director_id": 14,
+  "date_publish": "9/27/2020",
+  "price": 95
+}, {
+  "id": 15,
+  "title": "Muppets Take Manhattan, The",
+  "genre": "Children|Comedy|Musical",
+  "director_id": 15,
+  "date_publish": "3/31/2021",
+  "price": 81
+}, {
+  "id": 16,
+  "title": "Return of Dracula, The",
+  "genre": "Horror",
+  "director_id": 16,
+  "date_publish": "5/27/2021",
+  "price": 52
+}, {
+  "id": 17,
+  "title": "Go",
+  "genre": "Comedy|Crime",
+  "director_id": 17,
+  "date_publish": "4/27/2021",
+  "price": 28
+}, {
+  "id": 18,
+  "title": "Misfortunates, The (De helaasheid der dingen)",
+  "genre": "Drama",
+  "director_id": 18,
+  "date_publish": "4/26/2021",
+  "price": 62
+}, {
+  "id": 19,
+  "title": "Desert of the Tartars, The (Deserto dei Tartari, Il)",
+  "genre": "Drama|War",
+  "director_id": 19,
+  "date_publish": "8/15/2020",
+  "price": 60
+}, {
+  "id": 20,
+  "title": "Other Dream Team, The",
+  "genre": "Documentary",
+  "director_id": 20,
+  "date_publish": "2/5/2021",
+  "price": 81
+}]
