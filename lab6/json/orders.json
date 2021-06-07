@@ -1,0 +1,122 @@
+[
+    {
+        "id": "1",
+        "user_id": "1",
+        "film_id": "1",
+        "total_price": "$9.01"
+    },
+    {
+        "id": "2",
+        "user_id": "2",
+        "film_id": "2",
+        "total_price": "$1.82"
+    },
+    {
+        "id": "3",
+        "user_id": "3",
+        "film_id": "3",
+        "total_price": "$1.33"
+    },
+    {
+        "id": "4",
+        "user_id": "4",
+        "film_id": "4",
+        "total_price": "$1.97"
+    },
+    {
+        "id": "5",
+        "user_id": "5",
+        "film_id": "5",
+        "total_price": "$8.71"
+    },
+    {
+        "id": "6",
+        "user_id": "6",
+        "film_id": "6",
+        "total_price": "$1.97"
+    },
+    {
+        "id": "7",
+        "user_id": "7",
+        "film_id": "7",
+        "total_price": "$9.62"
+    },
+    {
+        "id": "8",
+        "user_id": "8",
+        "film_id": "8",
+        "total_price": "$2.28"
+    },
+    {
+        "id": "9",
+        "user_id": "9",
+        "film_id": "9",
+        "total_price": "$9.68"
+    },
+    {
+        "id": "10",
+        "user_id": "10",
+        "film_id": "10",
+        "total_price": "$5.83"
+    },
+    {
+        "id": "11",
+        "user_id": "11",
+        "film_id": "11",
+        "total_price": "$1.83"
+    },
+    {
+        "id": "12",
+        "user_id": "12",
+        "film_id": "12",
+        "total_price": "$0.73"
+    },
+    {
+        "id": "13",
+        "user_id": "13",
+        "film_id": "13",
+        "total_price": "$7.58"
+    },
+    {
+        "id": "14",
+        "user_id": "14",
+        "film_id": "14",
+        "total_price": "$6.88"
+    },
+    {
+        "id": "15",
+        "user_id": "15",
+        "film_id": "15",
+        "total_price": "$6.91"
+    },
+    {
+        "id": "16",
+        "user_id": "16",
+        "film_id": "16",
+        "total_price": "$6.41"
+    },
+    {
+        "id": "17",
+        "user_id": "17",
+        "film_id": "17",
+        "total_price": "$5.93"
+    },
+    {
+        "id": "18",
+        "user_id": "18",
+        "film_id": "18",
+        "total_price": "$5.57"
+    },
+    {
+        "id": "19",
+        "user_id": "19",
+        "film_id": "19",
+        "total_price": "$5.09"
+    },
+    {
+        "id": "20",
+        "user_id": "20",
+        "film_id": "20",
+        "total_price": "$3.38"
+    }
+]
